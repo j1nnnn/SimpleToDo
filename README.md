@@ -4,7 +4,7 @@
 
 Submitted by: **Jinwoo Lim**
 
-Time spent: **30** minutes spent in total
+Time spent: **1** hour spent in total
 
 ## User Stories
 
